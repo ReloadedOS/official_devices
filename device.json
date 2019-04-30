@@ -1,0 +1,30 @@
+[
+   {
+        "name":"Redmi 3S/3X",
+        "brand":"Xiaomi",
+        "codename":"land",
+        "xda_link": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-reloaded-caf-t3891208",
+        "maintainer": "Ritesh Saxena"
+   },
+   {
+        "name":"Poco F1",
+        "brand":"Xiaomi",
+        "codename":"beryllium",
+        "xda_link": "https://forum.xda-developers.com/poco-f1/development/rom-reloaded-caf-t3880429",
+        "maintainer": "Ritesh Saxena"
+   },
+   {
+        "name":"Zenfone Max Pro M1",
+        "brand":"Asus",
+        "codename":"X00T",
+        "xda_link": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-reloaded-caf-t3892165",
+        "maintainer": "Solienatic"
+   },
+   {
+        "name":"Redmi 4A",
+        "brand":"Xiaomi",
+        "codename":"rolex",
+        "xda_link": "https://forum.xda-developers.com/redmi-4a/development/rom-reloaded-caf-xiaomi-redmi-4a-t3911494",
+        "maintainer": "Muralidharan"
+   }
+]
