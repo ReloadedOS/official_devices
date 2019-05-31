@@ -33,5 +33,12 @@
         "codename":"rosy",
         "xda_link": "https://forum.xda-developers.com/redmi-5/development/romofficial-reloaded-caf-xiaomi-redmi-5-t3934432",
         "maintainer": "Muralidharan"
+   },
+   {
+        "name":"Redmi Note 6 Pro",
+        "brand":"Xiaomi",
+        "codename":"tulip",
+        "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-reloaded-caf-t3935560",
+        "maintainer": "Pavan Patel"
    }
 ]
