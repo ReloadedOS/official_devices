@@ -40,5 +40,12 @@
         "codename":"tulip",
         "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-reloaded-caf-t3935560",
         "maintainer": "Pavan Patel"
+   },
+   {
+	"name":"Asus Zenfone Max Pro M2",
+	"brand":"Asus",
+	"codename":"X01BD",
+	"xda_link":"https://forum.xda-developers.com/max-pro-m2/development/official-reloaded-caf-t3943410",
+	"maintainer":"Jayant Deshmukh"
    }
 ]
