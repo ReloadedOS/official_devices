@@ -47,5 +47,13 @@
 	"codename":"X01BD",
 	"xda_link":"https://forum.xda-developers.com/max-pro-m2/development/official-reloaded-caf-t3943410",
 	"maintainer":"Jayant Deshmukh"
+   },
+   { 
+        "name":"Xiaomi Mi A2 Lite",
+	"brand":"Xiaomi",
+	"codename":"daisy",
+	"xda_link":"https://forum.xda-developers.com/mi-a2-lite/development/9-0-caf-reloaded-caf-mi-a2-lite-daisy-t3967509",
+	"maintainer":"Tunahan Şahin"
    }
 ]
+
