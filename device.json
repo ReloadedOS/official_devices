@@ -54,6 +54,13 @@
 	"codename":"daisy",
 	"xda_link":"https://forum.xda-developers.com/mi-a2-lite/development/9-0-caf-reloaded-caf-mi-a2-lite-daisy-t3967509",
 	"maintainer":"Tunahan Şahin"
-   }
+   },
+    {
+        "name":"Xiaomi Mi A3",
+        "brand":"Xiaomi",
+        "codename":"laurel_sprout",
+        "xda_link":"https://forum.xda-developers.com/mi-a3/development/rom-reloadedos-t4032635",
+        "maintainer":"Prakash"
+    }
 ]
 
