@@ -14,13 +14,6 @@
         "maintainer": "Jayant Deshmukh"
     },
     {
-        "name": "Mi A2 Lite",
-        "brand": "Xiaomi",
-        "codename": "daisy",
-        "xda_link": "https://forum.xda-developers.com/mi-a2-lite/development/9-0-caf-reloaded-caf-mi-a2-lite-daisy-t3967509",
-        "maintainer": "Tunahan Şahin"
-    },
-    {
         "name": "Mi A3",
         "brand": "Xiaomi",
         "codename": "laurel_sprout",
