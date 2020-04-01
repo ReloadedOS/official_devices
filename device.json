@@ -54,5 +54,12 @@
         "codename": "tulip",
         "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-reloaded-caf-t3935560",
         "maintainer": "Pavan Patel"
-    }
+    },
+    {
+        "name": "Redmi Note 7 Pro",
+        "brand": "Xiaomi",
+        "codename": "violet",
+        "xda_link": "https://forum.xda-developers.com/redmi-note-7-pro/development/reloaded-os-caf-t4075631",
+        "maintainer": "Aftab Ashrafi"
+    }    
 ]
