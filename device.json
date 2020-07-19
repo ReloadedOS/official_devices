@@ -49,7 +49,7 @@
         "maintainer": "Muralidharan"
     },
     { 
-        "name": "Redmi 5A"
+        "name": "Redmi 5A",
         "brand": "Xiaomi",
         "codename": "riva",
         "xda_link": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-reloadedos-t4135301",
@@ -69,6 +69,4 @@
         "xda_link": "https://forum.xda-developers.com/redmi-note-7-pro/development/reloaded-os-caf-t4075631",
         "maintainer": "Aftab Ashrafi"
     }
-]   
-  
-
+]
