@@ -48,6 +48,13 @@
         "xda_link": "https://forum.xda-developers.com/redmi-5/development/romofficial-reloaded-caf-xiaomi-redmi-5-t3934432",
         "maintainer": "Muralidharan"
     },
+    { 
+        "name": "Redmi 5A",
+        "brand": "Xiaomi",
+        "codename": "riva",
+        "xda_link": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-reloadedos-t4135301",
+        "maintainer": "Angga Alfian" 
+    },
     {
         "name": "Redmi Note 6 Pro",
         "brand": "Xiaomi",
@@ -61,5 +68,5 @@
         "codename": "violet",
         "xda_link": "https://forum.xda-developers.com/redmi-note-7-pro/development/reloaded-os-caf-t4075631",
         "maintainer": "Aftab Ashrafi"
-    }    
+    }
 ]
