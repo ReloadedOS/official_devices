@@ -68,5 +68,12 @@
         "codename": "violet",
         "xda_link": "https://forum.xda-developers.com/redmi-note-7-pro/development/reloaded-os-caf-t4075631",
         "maintainer": "Aftab Ashrafi"
+    },
+    {
+        "name": "Redmi Note 7",
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "xda_link": "https://forum.xda-developers.com/redmi-note-7/development/rom-reloadedos-t4140791",
+        "maintainer": "Reza Bagas Rifaldy"
     }
 ]
