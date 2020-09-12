@@ -1,3 +1,4 @@
+ 
 [
     {
         "name": "Zenfone Max Pro M1",
@@ -75,5 +76,12 @@
         "codename": "violet",
         "xda_link": "https://forum.xda-developers.com/redmi-note-7-pro/development/reloaded-os-caf-t4075631",
         "maintainer": "Aftab Ashrafi"
+    },
+    {
+        "name": "Redmi Note 8",
+        "brand": "Xiaomi",
+        "codename": "ginkgo",
+        "xda_link": "https://forum.xda-developers.com/redmi-note-8/development/rom-reloadedos-t4162027",
+        "maintainer": "Aryaman Shrivastava"
     }
 ]
